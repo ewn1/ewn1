@@ -23,7 +23,7 @@ do servidor com Python para me tornar um desenvolvedor Full Stack completo.
 ---
 
 ### 📫 Vamos nos conectar?
-LINKEDIN: https://www.linkedin.com/in/edwinmarciano-dev
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwinmarciano-dev)
 
 <!--
 **ewn1/ewn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
